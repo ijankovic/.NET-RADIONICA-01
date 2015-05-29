@@ -1,0 +1,6 @@
+c:\users\seni\documents\visual studio 2013\Projects\HelloWordApp\HelloWordApp\bin\Debug\HelloWordApp.exe.config
+c:\users\seni\documents\visual studio 2013\Projects\HelloWordApp\HelloWordApp\bin\Debug\HelloWordApp.exe
+c:\users\seni\documents\visual studio 2013\Projects\HelloWordApp\HelloWordApp\bin\Debug\HelloWordApp.pdb
+c:\users\seni\documents\visual studio 2013\Projects\HelloWordApp\HelloWordApp\obj\Debug\HelloWordApp.csprojResolveAssemblyReference.cache
+c:\users\seni\documents\visual studio 2013\Projects\HelloWordApp\HelloWordApp\obj\Debug\HelloWordApp.exe
+c:\users\seni\documents\visual studio 2013\Projects\HelloWordApp\HelloWordApp\obj\Debug\HelloWordApp.pdb
